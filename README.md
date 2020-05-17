@@ -1,4 +1,4 @@
-# sale-and-inventory-of-films
+# Inventário e vendas - Windows Forms
 
 Exemplo de uma aplicação desktop para fazer controle de estoque e vendas de uma locadora. O projeto possui cadastro, atualização, exclusão, pesquisa com filtro e autenticação de usuário. A base de dados possui relacionamento entre as tabelas.
 
